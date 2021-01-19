@@ -1,7 +1,7 @@
 # AWS-Deployment-study-sync
 
 ## Description
-Application based on tutorials to deploy a simple web application using AWS Elastic Beanstalk in a variety of ways. The tutorial goes over several
+Part of the study path to the AWS Developer Associate exam. Application based on tutorials to deploy a simple web application using AWS Elastic Beanstalk in a variety of ways. The tutorial goes over several
 forms of deployment using EB (Elasticbeanstalk) primarily completing the set up through the Cloud9 command line interface (CLI) in the AWS Management Console.
 
 ## Deployment variations
